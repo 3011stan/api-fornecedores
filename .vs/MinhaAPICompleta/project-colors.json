@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5678bf9d-d2cf-49e4-8e7f-f918636351e0": {
+      "ProjectGuid": "5678bf9d-d2cf-49e4-8e7f-f918636351e0",
+      "DisplayName": "DevIO.Business",
+      "ColorIndex": 0
+    },
+    "2551fe5a-1a7d-4974-92ee-4132430700cd": {
+      "ProjectGuid": "2551fe5a-1a7d-4974-92ee-4132430700cd",
+      "DisplayName": "DevIO.Data",
+      "ColorIndex": 1
+    },
+    "97ff447c-a6c4-4783-aa42-90ac148bbf98": {
+      "ProjectGuid": "97ff447c-a6c4-4783-aa42-90ac148bbf98",
+      "DisplayName": "DevIO.API",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
